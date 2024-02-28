@@ -734,8 +734,26 @@ p {
         font-size: 3rem;
     }
 
+    .main-info .contato .fa-phone {
+        margin-top: 10px;
+    }
+
     .main-info .contato a {
         font-size: 2rem;
+        display: block;
+    }
+
+    .main-info .contato img {
+        width: 30px;
+    }
+
+    .contato span {
+        display: none;
+    }
+
+    .contato__email,
+    .contato__rua {
+        margin-top: 10px;
     }
 
     .main-info .contato__email a,
